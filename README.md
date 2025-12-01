@@ -1,2 +1,2 @@
-# BMI-CALCULATOR
+# BMI-Calculator
 This is my first Git Repository.
