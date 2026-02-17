@@ -38,6 +38,7 @@ Creating beginner-level real projects
 Improving logical thinking through coding
 
 🚀 Future Improvements
+
 Add BMI history tracking
 Improve UI design
 Add age & gender-based suggestions
